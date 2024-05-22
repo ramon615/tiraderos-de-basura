@@ -54,7 +54,7 @@
          <h3>problematica</h3>
         <p>El porblema son las grandes acumulaciones de residuos y basura ya que representan un desafio creciente en las ciudades industrializadas o en procesos de urbanisacion.
             Estas aglomeraciones urbanas generan una alta demanda de bienes de consumo,lo que a su vez aumenta el volumen de desechos.
-            La problematica de los tiraderos de basura es un asunto relevante tanto para el ambiente como para la sulud humana. En Mexico, lamentablemente el 87% de los tiraderos de basura son a cielo abierto, mientras que solo el 13% son rellenos sanitareios.</p>
+           <li></li> La problematica de los tiraderos de basura es un asunto relevante tanto para el ambiente como para la sulud humana. En Mexico, lamentablemente el 87% de los tiraderos de basura son a cielo abierto, mientras que solo el 13% son rellenos sanitareios.</p>
     </div>
 </body>
 </html>
