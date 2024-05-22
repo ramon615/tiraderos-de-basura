@@ -45,6 +45,7 @@
             <li><strong>Rellenos sanitarios:</strong> Construir y gestionar rellenos sanitarios adecuados para la disposición final de residuos.</li>
             <li><strong>Educación y concienciación:</strong> Informar a la población sobre la importancia de desechar correctamente y reducir la generación de basura.</li>
         </ul>
+        <img src="http://lasvillas.com.mx/wp-content/uploads/2019/01/interior9.jpg"
         <img src="https://4.bp.blogspot.com/-yao53KeA4Dc/Vdt0HQJ4TnI/AAAAAAAAACM/iag7KmT5FwE/s1600/infografiareciclaje.png"
         <h2>Acciones Gubernamentales</h2>
         <p>En México, se han implementado planes para lograr "basura cero" y cerrar tiraderos a cielo abierto. El Consejo Nacional de Ciencia y Tecnología (Conacyt) está trabajando en el cierre ordenado y saneamiento de algunos tiraderos.</p>
