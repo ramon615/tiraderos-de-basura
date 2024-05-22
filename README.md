@@ -36,7 +36,7 @@
             <li><strong>Propagación de enfermedades:</strong> Los tiraderos son criaderos de ratas, moscas y otros vectores que transmiten enfermedades.</li>
             <li><strong>Efectos visuales y olfativos:</strong> La acumulación de basura afecta la calidad de vida de las comunidades cercanas.</li>
         </ul>
-        <img src="https://i.imgur.com/weNbhGZ.png">
+        <img src="https://www.elsoldetijuana.com.mx/local/gdb5y1-basura-en-la-calle/ALTERNATES/LANDSCAPE_1140/Basura%20en%20la%20calle">
         <img src="IMAGEN/tiradero.jpeg" alt="Tiradero de basura" width="400">
         <h2>Soluciones</h2>
         <p>Para abordar este problema, se requieren acciones a nivel individual, comunitario y gubernamental:</p>
