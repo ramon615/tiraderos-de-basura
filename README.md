@@ -49,8 +49,7 @@
         <img src="https://4.bp.blogspot.com/-yao53KeA4Dc/Vdt0HQJ4TnI/AAAAAAAAACM/iag7KmT5FwE/s1600/infografiareciclaje.png">
         <h2>Acciones Gubernamentales</h2>
         <p>En México, se han implementado planes para lograr "basura cero" y cerrar tiraderos a cielo abierto. El Consejo Nacional de Ciencia y Tecnología (Conacyt) está trabajando en el cierre ordenado y saneamiento de algunos tiraderos.</p>
-        <img src="https://1.bp.blogspot.com/-fOyoUYqxhm8/Uqidr8-qpaI/AAAAAAAAAAk/WHsGljPMmps/s320/relleno-sanitario.jpg">  alt="/-fOyoUYqxhm8/Uqidr8-qpaI/AAAAAAAAAAk/WHsGljPMmps/s320/relleno-sanitario" width="400">
-        <img src="https://cruceinformativo.cl/wp-content/uploads/2019/02/rellenosanitario.jpg"> alt="Relleno sanitario" width="400">
+        <img src="https://cruceinformativo.cl/wp-content/uploads/2019/02/rellenosanitario.jpg"> 
         <p><strong>Llamado a la Acción:</strong> Todos podemos contribuir. Reduzcamos, reciclemos y eduquemos.</p>
     </div>
 </body>
