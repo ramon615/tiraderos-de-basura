@@ -37,7 +37,7 @@
             <li><strong>Efectos visuales y olfativos:</strong> La acumulación de basura afecta la calidad de vida de las comunidades cercanas.</li>
         </ul>
         <img src="https://www.elsoldetijuana.com.mx/local/gdb5y1-basura-en-la-calle/ALTERNATES/LANDSCAPE_1140/Basura%20en%20la%20calle">
-        <img src="https://efeverde.com/wp-content/uploads/2022/01/1350237.jpg"
+        <img src="https://efeverde.com/wp-content/uploads/2022/01/1350237.jpg">
         <h2>Soluciones</h2>
         <p>Para abordar este problema, se requieren acciones a nivel individual, comunitario y gubernamental:</p>
         <ul>
@@ -45,8 +45,8 @@
             <li><strong>Rellenos sanitarios:</strong> Construir y gestionar rellenos sanitarios adecuados para la disposición final de residuos.</li>
             <li><strong>Educación y concienciación:</strong> Informar a la población sobre la importancia de desechar correctamente y reducir la generación de basura.</li>
         </ul>
-        <img src="http://lasvillas.com.mx/wp-content/uploads/2019/01/interior9.jpg"
-        <img src="https://4.bp.blogspot.com/-yao53KeA4Dc/Vdt0HQJ4TnI/AAAAAAAAACM/iag7KmT5FwE/s1600/infografiareciclaje.png"
+        <img src="http://lasvillas.com.mx/wp-content/uploads/2019/01/interior9.jpg">
+        <img src="https://4.bp.blogspot.com/-yao53KeA4Dc/Vdt0HQJ4TnI/AAAAAAAAACM/iag7KmT5FwE/s1600/infografiareciclaje.png">
         <h2>Acciones Gubernamentales</h2>
         <p>En México, se han implementado planes para lograr "basura cero" y cerrar tiraderos a cielo abierto. El Consejo Nacional de Ciencia y Tecnología (Conacyt) está trabajando en el cierre ordenado y saneamiento de algunos tiraderos.</p>
         <img src="IMAGEN/relleno-sanitario.jpeg" alt="Relleno sanitario" width="400">
