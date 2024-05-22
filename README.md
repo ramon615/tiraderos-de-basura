@@ -49,7 +49,7 @@
         <img src="https://4.bp.blogspot.com/-yao53KeA4Dc/Vdt0HQJ4TnI/AAAAAAAAACM/iag7KmT5FwE/s1600/infografiareciclaje.png">
         <h2>Acciones Gubernamentales</h2>
         <p>En México, se han implementado planes para lograr "basura cero" y cerrar tiraderos a cielo abierto. El Consejo Nacional de Ciencia y Tecnología (Conacyt) está trabajando en el cierre ordenado y saneamiento de algunos tiraderos.</p>
-        <img src="IMAGEN/relleno-sanitario.jpeg" alt="Relleno sanitario" width="400">
+        <img src=https://tse3.mm.bing.net/th?id=OIP.j0QOpgzPxb_SHTm37DPTBgHaFj&pid=Api&P=0&h=180">
         <p><strong>Llamado a la Acción:</strong> Todos podemos contribuir. Reduzcamos, reciclemos y eduquemos.</p>
     </div>
 </body>
