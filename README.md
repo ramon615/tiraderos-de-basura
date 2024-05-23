@@ -27,10 +27,10 @@
 <body>
     <div class="container">
         <h1>Tiraderos de Basura: Problemas,Impacto y Soluciones</h1>
-        <p>El porblema son las grandes acumulaciones de residuos y basura ya que representan un desafio creciente en las ciudades industrializadas o en procesos de urbanisacion.
-Estas aglomeraciones urbanas generan una alta demanda de bienes de consumo,lo que a su vez aumenta el volumen de desechos.
-            La problematica de los tiraderos de basura es un asunto relevante tanto para el ambiente como para la sulud humana. En Mexico, lamentablemente el 87% de los tiraderos de basura son a cielo abierto, mientras que solo el 13% son rellenos sanitarios.
- En resumen los tiraderos de basura son un problema global que afecta al medio ambiente, la salud y la sociedad en general. Aquí profundizamos en su impacto y presentamos soluciones.</p>
+        <p>El porblema son las grandes acumulaciones de residuos y basura ya que representan un desafio creciente en las ciudades industrializadas o en procesos de urbanización.</p>
+<p>Estas aglomeraciones urbanas generan una alta demanda de bienes de consumo,lo que a su vez aumenta el volumen de desechos.</p>
+           <p>La problematica de los tiraderos de basura es un asunto relevante tanto para el ambiente como para la sulud humana. En Mexico, lamentablemente el 87% de los tiraderos de basura son a cielo abierto, mientras que solo el 13% son rellenos sanitarios.</p>
+ <p> En resumen los tiraderos de basura son un problema global que afecta al medio ambiente, la salud y la sociedad en general. Aquí profundizamos en su impacto y presentamos soluciones.</p>
         <h2>Impacto de los Tiraderos</h2>
         <p>Los tiraderos a cielo abierto dañan el entorno natural de múltiples maneras:</p>
         <ul>
